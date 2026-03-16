@@ -40,6 +40,7 @@ Jupyter Notebook
 These libraries were used for data manipulation, statistical analysis, and visualization.
 
 Project Structure
+
 air-quality-data-analysis
 │
 ├── data
